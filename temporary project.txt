@@ -1,1 +1,14 @@
+<<<<<<< HEAD
 temporary project
+tmp2
+
+hello 
+hello world 2
+=======
+Learning new tools can feel challenging at first,
+but consistent practice makes the process easier.
+Every mistake teaches an important lesson,
+and progress often comes step by step.
+Staying patient and curious helps build confidence.
+Small improvements eventually lead to big results.
+>>>>>>> his_branch
